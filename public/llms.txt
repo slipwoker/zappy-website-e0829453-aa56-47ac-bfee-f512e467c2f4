@@ -1,43 +1,53 @@
-# Business — Generative Engine Optimization Map
+# Mr Lorax — Generative Engine Optimization Map
+
+> A עיצוב גרפי business.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://mr-lorax.zappy5.app
 
 ### Services
-https://example.com/services
+https://mr-lorax.zappy5.app/services
 
 ### Work
-https://example.com/work
+https://mr-lorax.zappy5.app/work
 
 ### Contact
-https://example.com/contact
+https://mr-lorax.zappy5.app/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://mr-lorax.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://mr-lorax.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://mr-lorax.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Mr Lorax
+Mr Lorax is a business in the עיצוב גרפי industry.
+
+## Target Audience
+- מעצבים עצמאיים
+
+## Industry
+עיצוב גרפי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://mr-lorax.zappy5.app/sitemap.xml
+- **Robots.txt**: https://mr-lorax.zappy5.app/robots.txt
