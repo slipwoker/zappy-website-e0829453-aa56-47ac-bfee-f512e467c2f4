@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mr-lorax-e0829453.zappy5.app/sitemap.xml

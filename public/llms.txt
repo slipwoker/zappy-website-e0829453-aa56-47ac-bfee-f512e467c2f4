@@ -1,0 +1,53 @@
+# Mr Lorax — Generative Engine Optimization Map
+
+> A עיצוב גרפי business.
+
+---
+
+## Pages
+
+### Home
+https://mr-lorax-e0829453.zappy5.app
+
+### Services
+https://mr-lorax-e0829453.zappy5.app/services
+
+### Work
+https://mr-lorax-e0829453.zappy5.app/work
+
+### Contact
+https://mr-lorax-e0829453.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://mr-lorax-e0829453.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://mr-lorax-e0829453.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://mr-lorax-e0829453.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Mr Lorax
+Mr Lorax is a business in the עיצוב גרפי industry.
+
+## Target Audience
+- מעצבים עצמאיים
+
+## Industry
+עיצוב גרפי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://mr-lorax-e0829453.zappy5.app/sitemap.xml
+- **Robots.txt**: https://mr-lorax-e0829453.zappy5.app/robots.txt
