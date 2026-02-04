@@ -1,6 +1,4 @@
-# Mr Lorax — Generative Engine Optimization Map
-
-> A עיצוב גרפי business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -36,15 +34,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Mr Lorax
-Mr Lorax is a business in the עיצוב גרפי industry.
-
-## Target Audience
-- מעצבים עצמאיים
-
-## Industry
-עיצוב גרפי
-
+## About Business
 ---
 
 # Additional Resources
